@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Homepage</title>
+</head>
+<body>
+	<button style="height:50px,width:50px;" onclick="myFunction()">Click here if your a democrat</button>
+	<script type="text/javascript">
+		function myFunction() {
+			window.alert("Your Gay")
+		}
+	</script>
+
+</body>
+</html>
